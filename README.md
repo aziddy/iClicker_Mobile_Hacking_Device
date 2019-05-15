@@ -26,6 +26,11 @@ https://github.com/wizard97/iSkipper
 * Adafruit Feather M0 or 32u4 RFM69 PACKET RADIO - 868 OR 915 MHZ <a href="https://elmwoodelectronics.ca/products/adafruit-feather-m0-rfm69-packet-radio-868-or-915-mhz">Link</a>
 * Protoboard
 * Some random battery bank I bought from Dollarama
+* OLED Display 128x64 Pixel I2C, 0.96 inch, SSD1306 
+
+<br>
+
+
 
 
 
