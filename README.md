@@ -4,6 +4,8 @@ The actual libraries and reverse engineering of the iClicker Protocol is done by
 https://github.com/wizard97/iSkipper
 
 
+
+
 ## Libraries
 
 <p align="center" style="vertical-align: top; position: relative" >
@@ -14,6 +16,16 @@ https://github.com/wizard97/iSkipper
 
 </p>
 
+
+## Component List
+<br>
+<br>
+
+* DPDT Rocker Switch 
+<a href="https://www.creatroninc.com/product/dpdt-rocker-switch/?search_query=switch&results=305">Link</a>
+* Adafruit Feather M0 or 32u4 RFM69 PACKET RADIO - 868 OR 915 MHZ <a href="https://elmwoodelectronics.ca/products/adafruit-feather-m0-rfm69-packet-radio-868-or-915-mhz">Link</a>
+* Protoboard
+* Some random battery bank I bought from Dollarama
 
 
 
