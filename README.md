@@ -29,9 +29,13 @@ So I made a small portable device to see answers
 
 <br>
 
+## Wiring
+<br>
+<p align="center" style="vertical-align: top; position: relative" >
 
+  <img style="vertical-align: top; position: relative" src="https://github.com/aziddy/iClicker_Mobile_Hacking_Device/blob/master/circuit.PNG?raw=true" width="700"/>
 
-
+</p>
 
 
 
