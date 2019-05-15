@@ -3,8 +3,9 @@
 The actual libraries and reverse engineering of the iClicker Protocol is done by wizard97
 https://github.com/wizard97/iSkipper
 
+So I made a small portable device to see answers 
 
-
+<br>
 
 ## Libraries
 
@@ -18,8 +19,6 @@ https://github.com/wizard97/iSkipper
 
 
 ## Component List
-<br>
-<br>
 
 * DPDT Rocker Switch 
 <a href="https://www.creatroninc.com/product/dpdt-rocker-switch/?search_query=switch&results=305">Link</a>
