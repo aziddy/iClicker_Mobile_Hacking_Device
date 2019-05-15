@@ -4,6 +4,13 @@ The actual libraries and reverse engineering of the iClicker Protocol is done by
 https://github.com/wizard97/iSkipper
 
 So I made a small portable device to see answers 
+<br>
+
+<p align="center" style="vertical-align: top; position: relative" >
+  <img style="vertical-align:top" src="https://github.com/aziddy/iClicker_Mobile_Hacking_Device/blob/master/media/jiff.gif?raw=true" width="700"/>
+</p>
+
+
 
 <br>
 
