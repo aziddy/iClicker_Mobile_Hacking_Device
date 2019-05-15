@@ -14,8 +14,6 @@ So I made a small portable device to see answers
 
 <br>
 
-## Libraries
-
 <p align="center" style="vertical-align: top; position: relative" >
   <img style="vertical-align:top" src="https://github.com/aziddy/iClicker_Mobile_Hacking_Device/blob/master/front.jpg?raw=true" width="300"/>
   <img style="vertical-align:top" src="https://github.com/aziddy/iClicker_Mobile_Hacking_Device/blob/master/screen.jpg?raw=true" width="300"/>
@@ -23,6 +21,7 @@ So I made a small portable device to see answers
 
 </p>
 
+<br>
 
 ## Component List
 
@@ -33,6 +32,11 @@ So I made a small portable device to see answers
 * Some random battery bank I bought from Dollarama
 * OLED Display 128x64 Pixel I2C, 0.96 inch, SSD1306 
 
+<br>
+
+## Libraries
+
+All the libs required are in https://github.com/wizard97/iSkipper
 <br>
 
 ## Wiring
