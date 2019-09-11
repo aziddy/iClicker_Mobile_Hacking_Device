@@ -50,13 +50,13 @@ All the libs required are in https://github.com/wizard97/iSkipper
 
 <br>
 <br>
-# RAM Considerations
-( WORK IN PROGRESS )
 
-<br>
+# RAM Considerations
 **32u4** Version of the Feather only has *2.5Kb* of RAM. While the **M0** Version has *32Kb*. But my dumbass didn't see this untill I bought the **32u4** Version. So I had to edit my program abit so it wont shit itself.
 <br>
+<br>
 
+The screen is 128x64. But the entire program would fuck up unless I lower the amount of RAM allocated for the display
 ```c
 #define MALLOC_SCREEN_WIDTH 128
 #define MALLOC_SCREEN_HEIGHT 40
