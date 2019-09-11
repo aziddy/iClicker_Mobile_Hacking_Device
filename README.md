@@ -48,5 +48,11 @@ All the libs required are in https://github.com/wizard97/iSkipper
 
 </p>
 
+<br>
+<br>
+## RAM Considerations
+( WORK IN PROGRESS )
+<br>
+
 
 
