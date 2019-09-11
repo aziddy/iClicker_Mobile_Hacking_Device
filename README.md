@@ -27,7 +27,7 @@ So I made a small portable device to see answers
 
 * DPDT Rocker Switch 
 <a href="https://www.creatroninc.com/product/dpdt-rocker-switch/?search_query=switch&results=305">Link</a>
-* Adafruit Feather M0 or 32u4 RFM69 PACKET RADIO - 868 OR 915 MHZ <a href="https://elmwoodelectronics.ca/products/adafruit-feather-m0-rfm69-packet-radio-868-or-915-mhz">Link</a>
+* Adafruit Feather M0 RFM69 PACKET RADIO - 868 OR 915 MHZ **GET THE M0 VERSION** <a href="https://elmwoodelectronics.ca/products/adafruit-feather-m0-rfm69-packet-radio-868-or-915-mhz">Link</a>
 * Protoboard
 * Some random battery bank I bought from Dollarama
 * OLED Display 128x64 Pixel I2C, 0.96 inch, SSD1306 
@@ -50,8 +50,25 @@ All the libs required are in https://github.com/wizard97/iSkipper
 
 <br>
 <br>
-## RAM Considerations
+# RAM Considerations
 ( WORK IN PROGRESS )
+
+<br>
+**32u4** Version of the Feather only has *2.5Kb* of RAM. While the **M0** Version has *32Kb*. But my dumbass didn't see this untill I bought the **32u4** Version. So I had to edit my program abit so it wont shit itself.
+<br>
+
+```c
+#define MALLOC_SCREEN_WIDTH 128
+#define MALLOC_SCREEN_HEIGHT 40
+```
+<br>
+
+```c
+#define MAX_BUFFERED_PACKETS 10
+```
+
+
+
 <br>
 
 
