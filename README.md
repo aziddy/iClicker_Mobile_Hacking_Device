@@ -18,7 +18,7 @@ So I made a small portable device to see answers
   <img style="vertical-align:top" src="https://github.com/aziddy/iClicker_Mobile_Hacking_Device/blob/master/front.jpg?raw=true" width="300"/>
   <img style="vertical-align:top" src="https://github.com/aziddy/iClicker_Mobile_Hacking_Device/blob/master/screen.jpg?raw=true" width="300"/>
   <img style="vertical-align: top; position: relative" src="https://github.com/aziddy/iClicker_Mobile_Hacking_Device/blob/master/back_battery.jpg?raw=true" width="400"/>
-
+    <img style="vertical-align:top" src="https://github.com/aziddy/iClicker_Mobile_Hacking_Device/blob/master/00100dPORTRAIT_00100_BURST20200204102705053_COVER.jpg?raw=true" width="400"/>
 </p>
 
 <br>
